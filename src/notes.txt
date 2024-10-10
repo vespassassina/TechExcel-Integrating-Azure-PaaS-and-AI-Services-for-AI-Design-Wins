@@ -1,0 +1,1 @@
+az ad sp create-for-rbac --name "TechExcelAzurePaaS" --json-auth --role contributor --scopes /subscriptions/9c67c682-8d21-45d7-9e66-86d82d1e3ec3/resourceGroups/AI-TechExcel1
